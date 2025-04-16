@@ -9,7 +9,7 @@ let nome = 'José Silva Camargo'
 nome = 'jhoe'
 let idade = 15
 let gostapraia = true
-gostapraia = false
+gostapraia = true
 
 
 console.log('Meu nome é', nome, 'e tenho ', idade, 'anos de idade.\nSerá que gosto de ir para a praia?', gostapraia);
